@@ -1,0 +1,89 @@
+﻿.center {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+.glyphicon {
+    margin-right: 5px;
+}
+
+.rating .glyphicon {
+    font-size: 22px;
+}
+
+.rating-num {
+    margin-top: 0px;
+    font-size: 54px;
+}
+
+.progress {
+    margin-bottom: 5px;
+}
+
+.progress-bar {
+    text-align: left;
+}
+
+.rating-desc .col-md-3 {
+    padding-right: 0px;
+}
+
+.sr-only {
+    margin-left: 5px;
+    overflow: visible;
+    clip: auto;
+}
+
+h1 {
+    text-align: center
+}
+
+button {
+    background-color: #6A1B9A;
+    color: #ffffff;
+    border: none;
+    border-radius: 50%;
+    padding: 10px 20px;
+    font-size: 17px;
+    font-family: Raleway;
+    cursor: pointer
+}
+
+    button:hover {
+        opacity: 0.8
+    }
+
+    button:focus {
+        outline: none !important
+    }
+
+
+.Star {
+    background-image: url(images/Others/Star.gif);
+    height: 17px;
+    width: 17px;
+}
+
+.WaitingStar {
+    background-image: url(images/Others/WaitingStar.gif);
+    height: 17px;
+    width: 17px;
+}
+
+.FilledStar {
+    background-image: url(images/Others/FilledStar.gif);
+    height: 17px;
+    width: 17px;
+}
+
+.ajaxtoolkit {
+    position: fixed;
+    left: 50%;
+    margin-left: -40px;
+}
+
+table {
+    border: 1px solid black;
+}
